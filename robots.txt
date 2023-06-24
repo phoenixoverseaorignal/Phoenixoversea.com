@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /crm/
+Disallow: /cgi-bin/
+Disallow: /temp/
+Disallow: /admin/
+Disallow: /index.php
+Disallow: /pages.php
+Disallow: /blog/admin/
+
+Sitemap: https://www.phoenixoversea.com/sitemap.xml
